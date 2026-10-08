@@ -55,7 +55,7 @@ Below is a breakdown of top commercial IAM vendors, sorted by **Company Valuatio
 
 Identity & Access Management features a thriving open-source ecosystem, spanning complete Identity Providers (IdPs), modular auth stacks, policy engines, and fine-grained authorization databases.
 
-Below are top open-source projects sorted by **GitHub Stars_Count (Descending)**, each featuring a live Stars_Badge linking directly to the project's stargazers page:
+Below are top open-source projects sorted by **GitHub_Stars_Count (Descending)**, each featuring a live Stars_Badge linking directly to the project's stargazers page:
 
 1. ⚡ **[PocketBase](https://github.com/pocketbase/pocketbase)** [![GitHub_Stars](https://img.shields.io/github/stars/pocketbase/pocketbase?style=social&color=white)](https://github.com/pocketbase/pocketbase/stargazers)  
    **Open-source backend in Go** consisting of embedded database (SQLite), real-time subscriptions, built-in identity & authentication management, and OAuth2 integration.
